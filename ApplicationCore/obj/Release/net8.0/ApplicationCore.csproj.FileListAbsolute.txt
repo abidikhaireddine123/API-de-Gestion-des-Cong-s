@@ -1,0 +1,15 @@
+D:\pfedossier\BackEnd\ApplicationCore\bin\Release\net8.0\ApplicationCore.deps.json
+D:\pfedossier\BackEnd\ApplicationCore\bin\Release\net8.0\ApplicationCore.runtimeconfig.json
+D:\pfedossier\BackEnd\ApplicationCore\bin\Release\net8.0\ApplicationCore.dll
+D:\pfedossier\BackEnd\ApplicationCore\bin\Release\net8.0\ApplicationCore.pdb
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.sourcelink.json
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.dll
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\refint\ApplicationCore.dll
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.pdb
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ApplicationCore.genruntimeconfig.cache
+D:\pfedossier\BackEnd\ApplicationCore\obj\Release\net8.0\ref\ApplicationCore.dll
