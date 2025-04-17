@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj": {}
+    "D:\\projet\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj": {
+    "D:\\projet\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "D:\\projet\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "D:\\projet\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\projet\\test\\ApplicationCore\\obj\\",
+        "outputPath": "D:\\projet\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

@@ -6613,11 +6613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projet\\test\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\projet\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\projet\\test\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\projet\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\projet\\test\\WebApi\\obj\\",
+      "outputPath": "D:\\projet\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
@@ -6641,8 +6641,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "D:\\projet\\test\\ApplicationCore\\ApplicationCore.csproj"
+            "D:\\projet\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "D:\\projet\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }
